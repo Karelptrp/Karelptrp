@@ -1,36 +1,24 @@
-<h1 align="center">
-🧱 BloxyHub: Tetris-Inspired GitHub Page 🧱
-</h1>
+BloxyHub: Tetris-Themed README
+<p align="center"><img src="https://fakeimg.pl/600x120/000/FFF/?text=BloxyHub&font=press-start-2p" alt="BloxyHub" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+BloxyHub!;Code+like+it's+Tetris!;Stack+your+skills+high!" alt="Typing SVG" />
-</p>
+🎮 Blocks Layout
+<p align="center"><table><tr><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td></tr><tr><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td></tr></table></p>
 
----
+🧩 Skills Stack
+<p align="center"><table><tr><td bgcolor="#FF4136" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">JavaScript</span></td><td bgcolor="#FFDC00" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#000;">Python</span></td><td bgcolor="#2ECC40" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">HTML/CSS</span></td><td bgcolor="#0074D9" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">Git & GitHub</span></td></tr></table></p>
 
-## 🎮 About BloxyHub
+📦 Current Projects
+- 🟥 bloxy-tetris: Tetris simulator built with Canvas API
+- 🟨 bloxy-readme: Generator for block-style READMEs
+- 🟦 bloxy-theme: VSCode theme in pixel art style
+- 🟩 bloxy-stack: Visual stack data structure demo
 
-> Just like Tetris, every block of code fits somewhere.  
-> This repo is a playful showcase of my projects, skills, and experiments — stacked with precision and creativity.
+📫 Contact
+- 💌 Email: bloxydev@example.com
+- 🐦 Twitter: @bloxydev
+- 🌐 Website: bloxyhub.dev
 
----
+<p align="center"><i>Keep stacking blocks. Keep stacking skills. 🎮</i></p>
 
-## 🧩 Projects
-
-| Block | Description |
-|-------|-------------|
-| 🟥 Red Block | `bloxy-game-engine`: A mini game engine inspired by Tetris physics |
-| 🟨 Yellow Block | `readme-art`: ASCII art generator for GitHub READMEs |
-| 🟦 Blue Block | `stack-simulator`: Simulates stack-based logic like falling blocks |
-| 🟩 Green Block | `bloxy-theme`: VSCode theme with pixel-style UI |
-
----
-
-## 🛠️ Tech Stack
-
-```txt
-🧱 JavaScript
-🧱 Python
-🧱 HTML/CSS
-🧱 Git & GitHub
-🧱 Love for retro games
+Note on Fonts
+GitHub’s Markdown sanitizes external CSS, so custom fonts won’t load directly. Here we use a header image (via fakeimg.pl) rendered in the “Press Start 2P” Tetris-style font. If you need full font support (even for live text), consider publishing an index.html on GitHub Pages where you can import Google Fonts and write custom CSS.
