@@ -1,24 +1,77 @@
-BloxyHub: Tetris-Themed README
-<p align="center"><img src="https://fakeimg.pl/600x120/000/FFF/?text=BloxyHub&font=press-start-2p" alt="BloxyHub" /></p>
+# 🟦 TETRIS THEME README 🟥
 
-🎮 Blocks Layout
-<p align="center"><table><tr><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td></tr><tr><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td><td bgcolor="#FF4136" width="50" height="50"></td><td bgcolor="#FFDC00" width="50" height="50"></td><td bgcolor="#2ECC40" width="50" height="50"></td><td bgcolor="#0074D9" width="50" height="50"></td></tr></table></p>
+<p align="center">
+  <img src="https://fakeimg.pl/600x120/000/FFF/?font=press-start-2p&text=TETRIS+README" alt="Tetris Theme README" />
+</p>
 
-🧩 Skills Stack
-<p align="center"><table><tr><td bgcolor="#FF4136" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">JavaScript</span></td><td bgcolor="#FFDC00" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#000;">Python</span></td><td bgcolor="#2ECC40" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">HTML/CSS</span></td><td bgcolor="#0074D9" width="150" height="60" align="center"><span style="font-family:'Press Start 2P',monospace; color:#FFF;">Git & GitHub</span></td></tr></table></p>
+---
 
-📦 Current Projects
-- 🟥 bloxy-tetris: Tetris simulator built with Canvas API
-- 🟨 bloxy-readme: Generator for block-style READMEs
-- 🟦 bloxy-theme: VSCode theme in pixel art style
-- 🟩 bloxy-stack: Visual stack data structure demo
+<p align="center">
+  <table cellpadding="0" cellspacing="0">
+    <tr>
+      <td bgcolor="#FF4136" width="40" height="40"></td>
+      <td bgcolor="#FFDC00" width="40" height="40"></td>
+      <td bgcolor="#2ECC40" width="40" height="40"></td>
+      <td bgcolor="#0074D9" width="40" height="40"></td>
+      <td bgcolor="#FF4136" width="40" height="40"></td>
+      <td bgcolor="#FFDC00" width="40" height="40"></td>
+      <td bgcolor="#2ECC40" width="40" height="40"></td>
+      <td bgcolor="#0074D9" width="40" height="40"></td>
+    </tr>
+    <tr>
+      <td bgcolor="#FFDC00" width="40" height="40"></td>
+      <td bgcolor="#2ECC40" width="40" height="40"></td>
+      <td bgcolor="#0074D9" width="40" height="40"></td>
+      <td bgcolor="#FF4136" width="40" height="40"></td>
+      <td bgcolor="#FFDC00" width="40" height="40"></td>
+      <td bgcolor="#2ECC40" width="40" height="40"></td>
+      <td bgcolor="#0074D9" width="40" height="40"></td>
+      <td bgcolor="#FF4136" width="40" height="40"></td>
+    </tr>
+  </table>
+</p>
 
-📫 Contact
-- 💌 Email: bloxydev@example.com
-- 🐦 Twitter: @bloxydev
-- 🌐 Website: bloxyhub.dev
+---
 
-<p align="center"><i>Keep stacking blocks. Keep stacking skills. 🎮</i></p>
+## 🧱 About
 
-Note on Fonts
-GitHub’s Markdown sanitizes external CSS, so custom fonts won’t load directly. Here we use a header image (via fakeimg.pl) rendered in the “Press Start 2P” Tetris-style font. If you need full font support (even for live text), consider publishing an index.html on GitHub Pages where you can import Google Fonts and write custom CSS.
+This README is styled like Tetris.  
+Each colored block represents a different part of this project.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <table>
+    <tr>
+      <td bgcolor="#FF4136" width="150" height="60" align="center"><b>JavaScript</b></td>
+      <td bgcolor="#FFDC00" width="150" height="60" align="center"><b>Python</b></td>
+      <td bgcolor="#2ECC40" width="150" height="60" align="center"><b>HTML/CSS</b></td>
+      <td bgcolor="#0074D9" width="150" height="60" align="center"><b>Git & GitHub</b></td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 📁 Projects
+
+- 🟥 `tetris-simulator`: Canvas-based Tetris game  
+- 🟨 `readme-blocks`: Generator README dengan layout blok  
+- 🟦 `pixel-theme`: VSCode theme ala pixel art  
+- 🟩 `stack-visualizer`: Demo struktur data stack ala Tetris  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: yourname@example.com  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 🌐 Website: [example.com](https://example.com)  
+
+---
+
+<p align="center">
+  <i>Stack your code like Tetris blocks. Build your future line by line.</i>
+</p>
