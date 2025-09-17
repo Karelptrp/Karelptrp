@@ -1,4 +1,4 @@
-# 🟦 TETRIS THEME README 🟥
+# 🟦 HELLO WELCOME TO MY GITHUB 🟥
 
 <p align="center">
   <img src="https://fakeimg.pl/600x120/000/FFF/?font=press-start-2p&text=TETRIS+README" alt="Tetris Theme README" />
@@ -35,8 +35,8 @@
 
 ## 🧱 About
 
-This README is styled like Tetris.  
-Each colored block represents a different part of this project.
+I am a data enthusiast and have a strong interest in the field of web dev and also back end
+I am a data science student and this github was created to store my assignments, welcome.
 
 ---
 
@@ -48,6 +48,7 @@ Each colored block represents a different part of this project.
       <td bgcolor="#FF4136" width="150" height="60" align="center"><b>JavaScript</b></td>
       <td bgcolor="#FFDC00" width="150" height="60" align="center"><b>Python</b></td>
       <td bgcolor="#2ECC40" width="150" height="60" align="center"><b>HTML/CSS</b></td>
+      <td bgcolor="#2ECC40" width="150" height="60" align="center"><b>C++</b></td>
       <td bgcolor="#0074D9" width="150" height="60" align="center"><b>Git & GitHub</b></td>
     </tr>
   </table>
@@ -57,18 +58,18 @@ Each colored block represents a different part of this project.
 
 ## 📁 Projects
 
-- 🟥 `tetris-simulator`: Canvas-based Tetris game  
-- 🟨 `readme-blocks`: Generator README dengan layout blok  
-- 🟦 `pixel-theme`: VSCode theme ala pixel art  
-- 🟩 `stack-visualizer`: Demo struktur data stack ala Tetris  
+- 🟥 `Smart Trash Can`: Tempat sampah pintar dengan sensor berbasis arduino 
+- 🟨 `My Portofolio Web`: Portfolio singkat saya  
+- 🟦 `Gas Leak Detector`: Pendeteksi kebocoran gas dengan ESP8266
+- 🟩 `Bekasi AI(soon)`: AI dengan bahasa anak Bekasi gaul
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: yourname@example.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 🌐 Website: [example.com](https://example.com)  
+- 📧 Email: karelpradana@outlook.com  
+- ℹ️ LinkedIn: [@yourhandle]([https://twitter.com/yourhandle](https://www.linkedin.com/in/kharelputra/))  
+- 🌐 Website: [example.com](https://karelptrp.github.io/web-portfolio-kharel/)  
 
 ---
 
