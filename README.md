@@ -68,8 +68,8 @@ I am a data science student and this github was created to store my assignments,
 ## 📫 Contact
 
 - 📧 Email: karelpradana@outlook.com  
-- ℹ️ LinkedIn: [@yourhandle]([https://twitter.com/yourhandle](https://www.linkedin.com/in/kharelputra/))  
-- 🌐 Website: [example.com](https://karelptrp.github.io/web-portfolio-kharel/)  
+- ℹ️ LinkedIn: [linkedin.com/in/kharelputra/]([https://twitter.com/yourhandle](https://www.linkedin.com/in/kharelputra/))  
+- 🌐 Website: [Portfolio-Kharel.com](https://karelptrp.github.io/web-portfolio-kharel/)  
 
 ---
 
